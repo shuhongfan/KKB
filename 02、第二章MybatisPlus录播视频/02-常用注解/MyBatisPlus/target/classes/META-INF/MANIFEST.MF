@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MyBatisPlus
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hp
+Implementation-Vendor-Id: com.kkb
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MyBatisPlus
+Created-By: Maven Integration for Eclipse
+

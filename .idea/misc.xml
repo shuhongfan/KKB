@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/01-mybatis录播资料/code/kkb-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/第2节  9月3日 Mybatis01-Mybatis架构分析及手写框架分析/mybatis-demo-18/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

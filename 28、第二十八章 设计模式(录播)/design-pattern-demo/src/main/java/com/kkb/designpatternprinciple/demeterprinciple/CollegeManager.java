@@ -22,7 +22,7 @@ public class CollegeManager {
     }
 
     //打印学院员工的方法
-    public void printCollegeEmployee(){
+    public void   printCollegeEmployee(){
 
         List<CollegeEmployee> collegeEmployee = getCollegeEmployee();
         for (CollegeEmployee employee : collegeEmployee) {

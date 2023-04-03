@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/24、第二十四章 WebFlux/01-firstwebflux/01-firstwebflux.iml" filepath="$PROJECT_DIR$/24、第二十四章 WebFlux/01-firstwebflux/01-firstwebflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24、第二十四章 WebFlux/01-labmda/01-labmda.iml" filepath="$PROJECT_DIR$/24、第二十四章 WebFlux/01-labmda/01-labmda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24、第二十四章 WebFlux/02-primary/02-primary.iml" filepath="$PROJECT_DIR$/24、第二十四章 WebFlux/02-primary/02-primary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24、第二十四章 WebFlux/03-sse/03-sse.iml" filepath="$PROJECT_DIR$/24、第二十四章 WebFlux/03-sse/03-sse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24、第二十四章 WebFlux/05-webflux-common/05-webflux-common.iml" filepath="$PROJECT_DIR$/24、第二十四章 WebFlux/05-webflux-common/05-webflux-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24、第二十四章 WebFlux/06-webflux-router/06-webflux-router.iml" filepath="$PROJECT_DIR$/24、第二十四章 WebFlux/06-webflux-router/06-webflux-router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24、第二十四章 WebFlux/07-webclient/07-webclient.iml" filepath="$PROJECT_DIR$/24、第二十四章 WebFlux/07-webclient/07-webclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KKB.iml" filepath="$PROJECT_DIR$/.idea/KKB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01、第一章mybatis从入门到精通/01-mybatis录播资料/code/kkb-mybatis/kkb-mybatis.iml" filepath="$PROJECT_DIR$/01、第一章mybatis从入门到精通/01-mybatis录播资料/code/kkb-mybatis/kkb-mybatis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01、第一章mybatis从入门到精通/第2节  9月3日 Mybatis01-Mybatis架构分析及手写框架分析/mybatis-demo-18/mybatis-demo-18.iml" filepath="$PROJECT_DIR$/01、第一章mybatis从入门到精通/第2节  9月3日 Mybatis01-Mybatis架构分析及手写框架分析/mybatis-demo-18/mybatis-demo-18.iml" />
     </modules>
   </component>
 </project>

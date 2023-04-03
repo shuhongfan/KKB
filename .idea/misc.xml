@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/01-mybatis录播资料/code/kkb-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/第2节  9月3日 Mybatis01-Mybatis架构分析及手写框架分析/mybatis-demo-18/pom.xml" />
+        <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/第3节  9月5日 Mybatis02-手写Mybatis框架/mybatis-demo-18/pom.xml" />
+        <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/第4节  9月8日 Mybatis03-手写Mybatis框架/20200908/mybatis-demo-18/pom.xml" />
+        <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/第4节  9月8日 Mybatis03-手写Mybatis框架/20200908/mybatis-framework-18/pom.xml" />
+        <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/第5节  9月10日 Mybatis04-阅读Mybatis源码/mybatis-3-master/pom.xml" />
+        <option value="$PROJECT_DIR$/01、第一章mybatis从入门到精通/第5节  9月10日 Mybatis04-阅读Mybatis源码/mybatis-framework-18/pom.xml" />
+        <option value="$PROJECT_DIR$/02、第二章MybatisPlus录播视频/01-简单使用/MyBatisPlus/pom.xml" />
+        <option value="$PROJECT_DIR$/02、第二章MybatisPlus录播视频/02-常用注解/MyBatisPlus/pom.xml" />
+        <option value="$PROJECT_DIR$/02、第二章MybatisPlus录播视频/03-Generator/MyBatisPlus-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/02、第二章MybatisPlus录播视频/04-条件构造器/springbootdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/02、第二章MybatisPlus录播视频/05-详细CRUD操作/MyBatisPlus/pom.xml" />
+        <option value="$PROJECT_DIR$/02、第二章MybatisPlus录播视频/06-分页插件/springbootdemo02/pom.xml" />
+        <option value="$PROJECT_DIR$/28、第二十八章 设计模式(录播)/design-pattern-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/24、第二十四章 WebFlux/01-firstwebflux/pom.xml" />
+        <option value="$PROJECT_DIR$/24、第二十四章 WebFlux/01-labmda/pom.xml" />
+        <option value="$PROJECT_DIR$/24、第二十四章 WebFlux/02-primary/pom.xml" />
+        <option value="$PROJECT_DIR$/24、第二十四章 WebFlux/03-sse/pom.xml" />
+        <option value="$PROJECT_DIR$/24、第二十四章 WebFlux/04-reactiveStream/pom.xml" />
+        <option value="$PROJECT_DIR$/24、第二十四章 WebFlux/05-webflux-common/pom.xml" />
+        <option value="$PROJECT_DIR$/24、第二十四章 WebFlux/06-webflux-router/pom.xml" />
+        <option value="$PROJECT_DIR$/24、第二十四章 WebFlux/07-webclient/pom.xml" />
       </list>
     </option>
   </component>

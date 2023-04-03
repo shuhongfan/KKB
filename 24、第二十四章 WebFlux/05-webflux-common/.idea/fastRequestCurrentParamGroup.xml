@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="com.abc.controller.StudentController" />
+    <option name="method" value="getAllSSE" />
+    <option name="module" value="05-webflux-common" />
+    <option name="originUrl" value="/student/sse/all" />
+    <option name="returnDocument" value="null" />
+    <option name="url" value="/student/sse/all" />
+  </component>
+</project>

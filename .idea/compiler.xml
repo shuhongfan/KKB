@@ -2,17 +2,57 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-demo-18 (3)" />
+        <module name="mybatis-demo-18 (2)" />
+        <module name="mybatis-demo-18 (1)" />
+        <module name="mybatis-framework-18 (1)" />
+        <module name="02-primary" />
+        <module name="mybatis" />
         <module name="kkb-mybatis" />
-        <module name="mybatis-demo-18" />
+        <module name="springbootdemo (2)" />
+        <module name="springbootdemo (1)" />
+        <module name="design-pattern-demo" />
+        <module name="07-webclient" />
+        <module name="05-webflux-common" />
+        <module name="03-sse" />
+        <module name="04-reactiveStream" />
+        <module name="MyBatisPlus (4)" />
+        <module name="MyBatisPlus (3)" />
+        <module name="01-firstwebflux" />
+        <module name="mybatis-framework-18 (2)" />
+        <module name="MyBatisPlus (2)" />
+        <module name="01-labmda" />
+        <module name="06-webflux-router" />
+        <module name="MyBatisPlus (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="kkb-mybatis" target="1.5" />
       <module name="mybatis-demo-18" target="1.8" />
+      <module name="mybatis-framework-18" target="1.8" />
+      <module name="MyBatisPlus" target="1.5" />
+      <module name="springbootdemo" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-firstwebflux" options="-parameters" />
+      <module name="01-labmda" options="-parameters" />
+      <module name="02-primary" options="-parameters" />
+      <module name="03-sse" options="-parameters" />
+      <module name="05-webflux-common" options="-parameters" />
+      <module name="06-webflux-router" options="-parameters" />
+      <module name="07-webclient" options="-parameters" />
+      <module name="MyBatisPlus (1)" options="-parameters" />
+      <module name="MyBatisPlus (2)" options="-parameters" />
+      <module name="MyBatisPlus (3)" options="-parameters" />
+      <module name="MyBatisPlus (4)" options="-parameters" />
+      <module name="springbootdemo (1)" options="-parameters" />
+      <module name="springbootdemo (2)" options="-parameters" />
+    </option>
   </component>
 </project>
